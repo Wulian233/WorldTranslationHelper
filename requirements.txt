@@ -1,0 +1,4 @@
+tqdm
+amulet-core
+amulet-nbt~=2.1; python_version < '3.12'
+./amulet_nbt-2.1.3-cp312-cp312-win_amd64.whl; python_version == '3.12' and sys_platform == 'win32'

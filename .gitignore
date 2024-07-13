@@ -1,0 +1,13 @@
+default_lang*.json
+**.exe
+backup*
+build
+dist
+**.spec
+**.log
+**.bat
+
+.idea
+.vscode
+.venv
+__pycache__

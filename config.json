@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "backup": true,
+    "lang": {
+      "file_name": "en_us",
+      "indent": 2,
+      "ensure_ascii": false,
+      "sort_keys": false
+    },
+    "components_max": -1,
+    "marcos_max": -1,
+    "save_threshold": 5000,
+    "keep_duplicate_keys": {
+      "command_storage": false,
+      "datapacks": false,
+      "advancements": false,
+      "command_blocks": false,
+      "bossbar": false,
+      "scores_all": false,
+      "scores_name": false,
+      "scores_teams_name": false,
+      "scores_teams_prefix": false,
+      "scores_teams_suffix": false,
+      "signs": true,
+      "containers_name": false,
+      "entities_name": false,
+      "show_entity_text": false,
+      "items_in_same": false,
+      "items_all": false,
+      "items_name": false,
+      "items_lore": false,
+      "items_pages": false,
+      "items_title": false
+    },
+    "filters": {
+      "command_storages": [],
+      "world_positions": []
+    },
+    "default_keys": {
+      "": "wtem.empty",
+      " ": "wtem.space",
+      "(+NBT)": "wtem.nbt_lore"
+    }
+  }
+}
